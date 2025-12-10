@@ -1,2 +1,2 @@
-#Basically trying to practice css 
+#Basically practicing css 
 #made the webpage
